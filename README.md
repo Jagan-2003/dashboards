@@ -1,5 +1,4 @@
-📊 Dashboard Title: ABZ Institute Student Performance Dashboard (example)
-🎯 Objective:
+📊 Dashboard Title: ABZ Institute Student Performance Dashboard,
 The purpose of this dashboard is to analyze student performance, enrollment trends, and course effectiveness at ABZ Institute. It provides insights to management for making data-driven decisions about student engagement, academic success, and program improvements.
 
 📌 Key KPIs/Visuals (Adjust based on what's in your dashboard):

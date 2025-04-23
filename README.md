@@ -1,0 +1,1 @@
+The purpose of this dashboard is to analyze student performance, enrollment trends, and course effectiveness at ABZ Institute. It provides insights to management for making data-driven decisions about student engagement, academic success, and program improvements.
